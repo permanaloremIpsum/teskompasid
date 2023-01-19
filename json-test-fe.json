@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "jam": "03:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Ayam Tangkap",
+      "pengeluaraan": 77249
+    },
+    {
+      "id": 2,
+      "jam": "03:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Mie Rebus",
+      "pengeluaraan": 32154
+    },
+    {
+      "id": 3,
+      "jam": "00:20",
+      "tanggal": "17 Februari 2021",
+      "nama": "Soto Kuning",
+      "pengeluaraan": 34992
+    },
+    {
+      "id": 4,
+      "jam": "05:59",
+      "tanggal": "17 Februari 2021",
+      "nama": "Ayam Geprek",
+      "pengeluaraan": 37674
+    },
+    {
+      "id": 5,
+      "jam": "05:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Otak-otak",
+      "pengeluaraan": 11971
+    },
+    {
+      "jam": "20:44",
+      "tanggal": "18 Januari 2023",
+      "nama": "Pisang Goreng",
+      "pengeluaraan": 10000,
+      "id": 6
+    },
+    {
+      "jam": "20:54",
+      "tanggal": "18 Januari 2023",
+      "nama": "Boba",
+      "pengeluaraan": 20000,
+      "id": 8
+    },
+    {
+      "jam": "20:55",
+      "tanggal": "18 Januari 2023",
+      "nama": "Martabak",
+      "pengeluaraan": 25000,
+      "id": 9
+    },
+    {
+      "jam": "21:10",
+      "tanggal": "18 Januari 2023",
+      "nama": "Mie Ayam",
+      "pengeluaraan": 15000,
+      "id": 10
+    },
+    {
+      "jam": "21:33",
+      "tanggal": "18 Januari 2023",
+      "nama": "Bakso",
+      "pengeluaraan": 12000,
+      "id": 11
+    },
+    {
+      "jam": "06:27",
+      "tanggal": "19 Januari 2023",
+      "nama": "Bubur Ayam",
+      "pengeluaraan": 18000,
+      "id": 12
+    },
+    {
+      "jam": "06:51",
+      "tanggal": "19 Januari 2023",
+      "nama": "Kopi",
+      "pengeluaraan": 23000,
+      "id": 13
+    },
+    {
+      "jam": "06:57",
+      "tanggal": "19 Januari 2023",
+      "nama": "Jaket",
+      "pengeluaraan": 120000,
+      "id": 14
+    },
+    {
+      "jam": "07:01",
+      "tanggal": "19 Januari 2023",
+      "nama": "Baso Aci",
+      "pengeluaraan": 20000,
+      "id": 15
+    },
+    {
+      "jam": "07:37",
+      "tanggal": "19 Januari 2023",
+      "nama": "Jus Alpukat",
+      "pengeluaraan": 12000,
+      "id": 16
+    },
+    {
+      "jam": "09:01",
+      "tanggal": "19 Januari 2023",
+      "nama": "Bubur Kacang",
+      "pengeluaraan": 10000,
+      "id": 17
+    }
+  ]
+}
